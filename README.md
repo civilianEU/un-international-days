@@ -1,5 +1,5 @@
 # United Nations International Days
-145 International Days are observed by the United Nations according to their [http://www.un.org/en/sections/observances/international-days/](website)
+145 International Days are observed by the United Nations according to their [website](http://www.un.org/en/sections/observances/international-days/)
 This project will provide the complete set in a format which can be imported into generic calendar applications.
 
 # Usage
