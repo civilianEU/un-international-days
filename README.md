@@ -4,7 +4,9 @@ This project will provide the complete set in a format which can be imported int
 
 # Usage
 You can directly import the calendar file from Github by using the URL for the ics-file (raw version):
-[webcal://github.com/civilianEU/un-international-days/raw/master/un-international-days.ics](webcal://github.com/civilianEU/un-international-days/raw/master/un-international-days.ics)
+[https://github.com/civilianEU/un-international-days/raw/master/un-international-days.ics](https://github.com/civilianEU/un-international-days/raw/master/un-international-days.ics)
+
+In some applications, you might need to replace *https* with *webcal*.
 
 # Contributing
 Feel free to create a pull request to include additional details or missing International Days.
